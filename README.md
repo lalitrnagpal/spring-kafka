@@ -1,1 +1,1 @@
-# spring-kafka
+# cloudstream-kafka
